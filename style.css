@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.search{
+    background-color: rgba(63, 63, 63, 0.86);
+}
+
+.title{
+    background-color: rgba(63, 63, 63, 0.86);
+}
+
+.city-box{
+    margin-top: 80px;
+}
+
+.icon{
+    width: 25px;
+    height: 25px;
+}
