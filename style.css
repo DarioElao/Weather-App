@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .search{
@@ -15,7 +16,7 @@
     margin-top: 80px;
 }
 
-.icon{
-    width: 25px;
-    height: 25px;
+
+.city{
+    margin: 20px;
 }
